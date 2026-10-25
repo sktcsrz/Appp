@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_speed_m",
+  "itemID": "203040001",
+  "description": "In Glitch (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203040001",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_speed_m.png"
+}

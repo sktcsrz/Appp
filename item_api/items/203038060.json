@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_madmax_new",
+  "itemID": "203038060",
+  "description": "Elite Miss Doombringer (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203038060",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_female_cos_top_madmax_new.png"
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_monk",
+  "itemID": "203039014",
+  "description": "Bare Resolution (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203039014",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_monk.png"
+}

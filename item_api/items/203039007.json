@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_rollerskating_basic",
+  "itemID": "203039007",
+  "description": "Freestyle Brakes (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203039007",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_rollerskating_basic.png"
+}

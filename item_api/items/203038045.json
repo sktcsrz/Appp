@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_corvus",
+  "itemID": "203038045",
+  "description": "Void Genotype (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203038045",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_corvus.png"
+}

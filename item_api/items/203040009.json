@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_traphiphop22_basic",
+  "itemID": "203040009",
+  "description": "T.R.A.P. Street (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203040009",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_traphiphop22_basic.png"
+}

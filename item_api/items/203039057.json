@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_scarlet_basic",
+  "itemID": "203039057",
+  "description": "Scorpio Void (Top)",
+  "description2": "NONE",
+  "Rare": "RED",
+  "AbIconID": "203039057",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_scarlet_basic.png"
+}

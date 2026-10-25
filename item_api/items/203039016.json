@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_pineapple",
+  "itemID": "203039016",
+  "description": "Pineapple Spree (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203039016",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_pineapple.png"
+}

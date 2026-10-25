@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_muerte",
+  "itemID": "203039012",
+  "description": "Prodigal Doom (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203039012",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_muerte.png"
+}

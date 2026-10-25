@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_champion_es",
+  "itemID": "203039041",
+  "description": "Champions T-Shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203039041",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_champion_es.png"
+}

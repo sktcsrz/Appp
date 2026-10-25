@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_mo_01",
+  "itemID": "203038048",
+  "description": "Essential Turtleneck",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203038048",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_mo_01.png"
+}
