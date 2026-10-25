@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_racer",
+  "itemID": "203043024",
+  "description": "Turbo Racer (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203043024",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_racer.png"
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_frog_01",
+  "itemID": "203043035",
+  "description": "Ribbit Hoodie",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203043035",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_frog_01.png"
+}

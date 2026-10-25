@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_fighter_purple",
+  "itemID": "203043014",
+  "description": "Bear Incarnate (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203043014",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_fighter_purple.png"
+}

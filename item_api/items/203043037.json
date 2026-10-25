@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_cougar",
+  "itemID": "203043037",
+  "description": "Puma Speedster (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203043037",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_cougar.png"
+}

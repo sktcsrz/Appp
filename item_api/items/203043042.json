@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_reputation43",
+  "itemID": "203043042",
+  "description": "An Honor Rest (Top)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203043042",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_reputation43.png"
+}
