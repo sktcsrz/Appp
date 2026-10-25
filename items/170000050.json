@@ -1,0 +1,14 @@
+{
+  "icon": "NONE",
+  "Img": "/png",
+  "itemID": "170000050",
+  "description": "Moco Choice Crate",
+  "description2": "Choose one reward: Moco Character, Universal Fragment x300, or Diamond Royale Voucher (expires on 10/31) x3",
+  "Rare": "PURPLE",
+  "AbIconID": "4294967295",
+  "isUnique": "false",
+  "IconInAB": "NORMAL",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}
