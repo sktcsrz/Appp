@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_S2_Master_Tshirt",
+  "Img": "/png",
+  "itemID": "203000106",
+  "description": "Heroic S2 T-shirt",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000106",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_diy_005",
+  "Img": "/png",
+  "itemID": "203000028",
+  "description": "Singlet (Help!)",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000028",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

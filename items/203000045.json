@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_shirt_plaid_1",
+  "Img": "/png",
+  "itemID": "203000045",
+  "description": "Programmers' Favorite (White)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000045",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

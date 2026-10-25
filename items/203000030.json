@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_diy_009",
+  "Img": "/png",
+  "itemID": "203000030",
+  "description": "Singlet (Lonely)",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000030",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

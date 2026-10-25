@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_founder_jacket_1",
+  "Img": "/png",
+  "itemID": "203000060",
+  "description": "Galaxy Jacket",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000060",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_pet_1",
+  "Img": "/png",
+  "itemID": "203000051",
+  "description": "Ragey Bulldog",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000051",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

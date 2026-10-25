@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_FEMALE_TSHIRT_SONGKRAN",
+  "Img": "/png",
+  "itemID": "203000104",
+  "description": "Wet Songkran T-shirt (Female)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000104",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

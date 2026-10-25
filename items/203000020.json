@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_camo_005",
+  "Img": "/png",
+  "itemID": "203000020",
+  "description": "T-shirt (Camouflage)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000020",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

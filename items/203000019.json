@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_camo_004",
+  "Img": "/png",
+  "itemID": "203000019",
+  "description": "T-shirt (Ruins)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000019",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_camo_003",
+  "Img": "/png",
+  "itemID": "203000018",
+  "description": "T-shirt (Jungle)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000018",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

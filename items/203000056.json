@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_cop_updress_1",
+  "Img": "/png",
+  "itemID": "203000056",
+  "description": "Andrew's Military Vest",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000056",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

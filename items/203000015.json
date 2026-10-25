@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_7",
+  "Img": "/png",
+  "itemID": "203000015",
+  "description": "T-shirt (Dislike)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000015",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_female_sc_suit_top02",
+  "Img": "/png",
+  "itemID": "203000091",
+  "description": "Nikita's Bodyguard Uniform",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000091",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

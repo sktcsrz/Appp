@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_4",
+  "Img": "/png",
+  "itemID": "203000012",
+  "description": "T-shirt (Black)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000012",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

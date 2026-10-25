@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_sc_nurse_updress_2",
+  "Img": "/png",
+  "itemID": "203000064",
+  "description": "Intern Uniform",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000064",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

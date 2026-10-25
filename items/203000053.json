@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_pet_3",
+  "Img": "/png",
+  "itemID": "203000053",
+  "description": "Shifty Puss",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000053",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

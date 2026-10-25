@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_oreo_deeppurple",
+  "Img": "/png",
+  "itemID": "203000089",
+  "description": "Cookie Blue",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000089",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

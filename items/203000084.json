@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_animal_corgi",
+  "Img": "/png",
+  "itemID": "203000084",
+  "description": "Corgi",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000084",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

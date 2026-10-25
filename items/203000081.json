@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_animal_panda",
+  "Img": "/png",
+  "itemID": "203000081",
+  "description": "Panda Eyed",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000081",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

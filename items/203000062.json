@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_cop_updress_2",
+  "Img": "/png",
+  "itemID": "203000062",
+  "description": "Military Vest (Alternative)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000062",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_week_002",
+  "Img": "/png",
+  "itemID": "203000075",
+  "description": "TOUGH TUES",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000075",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

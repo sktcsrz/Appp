@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_diy_001",
+  "Img": "/png",
+  "itemID": "203000026",
+  "description": "Singlet (Victory)",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000026",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

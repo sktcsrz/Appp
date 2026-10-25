@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_newyear_2",
+  "Img": "/png",
+  "itemID": "203000050",
+  "description": "Singlet (White 2018)",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000050",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_female_sc_suit_top01",
+  "Img": "/png",
+  "itemID": "203000090",
+  "description": "Nikita's Security Uniform",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000090",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_Male_GSL_Tshirt",
+  "Img": "/png",
+  "itemID": "203000098",
+  "description": "GW2018 T-shirt (male)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000098",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

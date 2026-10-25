@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_female_jacket_001",
+  "Img": "/png",
+  "itemID": "203000092",
+  "description": "Black Leather Jacket (Female)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000092",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

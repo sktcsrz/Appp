@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_shirt_camo_003",
+  "Img": "/png",
+  "itemID": "203000023",
+  "description": "Shirt (Camouflage)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000023",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_camo_002",
+  "Img": "/png",
+  "itemID": "203000017",
+  "description": "T-shirt (Town)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000017",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_week_007",
+  "Img": "/png",
+  "itemID": "203000080",
+  "description": "STARRY SUN",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000080",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

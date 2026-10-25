@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_suit_cloth_001_6",
+  "Img": "/png",
+  "itemID": "203000043",
+  "description": "Schoolgirl (Jasmine)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000043",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

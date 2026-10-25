@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_oreo_blue",
+  "Img": "/png",
+  "itemID": "203000087",
+  "description": "Cookie Teal",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000087",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

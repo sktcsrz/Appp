@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_5",
+  "Img": "/png",
+  "itemID": "203000013",
+  "description": "T-shirt (Smile)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000013",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

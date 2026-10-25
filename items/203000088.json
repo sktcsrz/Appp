@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_oreo_brown",
+  "Img": "/png",
+  "itemID": "203000088",
+  "description": "Cookie Brown",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000088",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

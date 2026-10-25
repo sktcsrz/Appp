@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_MALE_TSHIRT_SONGKRAN",
+  "Img": "/png",
+  "itemID": "203000103",
+  "description": "Wet Songkran T-shirt (Male)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000103",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

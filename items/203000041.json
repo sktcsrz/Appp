@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_suit_cloth_001_4",
+  "Img": "/png",
+  "itemID": "203000041",
+  "description": "Schoolgirl (Yellow)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000041",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

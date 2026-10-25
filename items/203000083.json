@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_animal_pufferfish",
+  "Img": "/png",
+  "itemID": "203000083",
+  "description": "Puffyfish",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000083",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

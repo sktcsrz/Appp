@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_animal_alpaca",
+  "Img": "/png",
+  "itemID": "203000082",
+  "description": "Not Llama",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000082",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

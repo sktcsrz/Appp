@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_top_cos_outdoor_grey",
+  "Img": "/png",
+  "itemID": "203000094",
+  "description": "Survivor Shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000094",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

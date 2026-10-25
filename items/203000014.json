@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_6",
+  "Img": "/png",
+  "itemID": "203000014",
+  "description": "T-shirt (Like)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000014",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

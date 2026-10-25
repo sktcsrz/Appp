@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_camo_001",
+  "Img": "/png",
+  "itemID": "203000016",
+  "description": "T-shirt (Desert)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000016",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
