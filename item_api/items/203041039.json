@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_inkpainting",
+  "itemID": "203041039",
+  "description": "Ink Flow (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203041039",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_female_cos_top_inkpainting.png"
+}

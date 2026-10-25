@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_asura",
+  "itemID": "203043005",
+  "description": "Wrathful Illusion (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203043005",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_asura.png"
+}

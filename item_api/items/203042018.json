@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_dinosaursuit",
+  "itemID": "203042018",
+  "description": "Almost Dino (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203042018",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_dinosaursuit.png"
+}

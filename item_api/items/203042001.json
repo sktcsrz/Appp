@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_voltage_black",
+  "itemID": "203042001",
+  "description": "Electro Current (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203042001",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_voltage_black.png"
+}

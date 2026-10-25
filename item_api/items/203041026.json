@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_sugarskull23_neon",
+  "itemID": "203041026",
+  "description": "Glowing Memory (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203041026",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_male_cos_top_sugarskull23_neon.png"
+}

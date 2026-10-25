@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_slime_tshirt",
+  "itemID": "203041032",
+  "description": "Slimy Sleeveless Zip Up",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203041032",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_cos_top_slime_tshirt.png"
+}

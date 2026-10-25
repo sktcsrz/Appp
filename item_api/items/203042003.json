@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_voltage",
+  "itemID": "203042003",
+  "description": "Electro Spark (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203042003",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "",
+  "Img": "https://example.com/300x300pngs/Icon_avatar_female_cos_top_voltage.png"
+}
