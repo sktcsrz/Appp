@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Sunny_40",
+  "Img": "/png",
+  "itemID": "170040504",
+  "description": "Sunny Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "BLUE",
+  "AbIconID": "170040504",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Emote",
+  "Img": "/png",
+  "itemID": "170040005",
+  "description": "Permanent Emote Choice Crate",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "BLUE",
+  "AbIconID": "170040005",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

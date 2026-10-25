@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_EmojiB_Evo_37",
+  "Img": "/png",
+  "itemID": "170041009",
+  "description": "Evo Gun Token Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "ORANGE",
+  "AbIconID": "170041009",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

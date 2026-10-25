@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Gun_skin_40",
+  "Img": "/png",
+  "itemID": "170040003",
+  "description": "Ultra Gun Skin Choice Crate (14 Days)",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170040003",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}
