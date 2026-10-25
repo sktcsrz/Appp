@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_noacc1_LOT_52",
+  "Img": "/png",
+  "itemID": "170052027",
+  "description": "Newbie Orange Apparel Choice Crate 1",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "ORANGE",
+  "AbIconID": "170052027",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

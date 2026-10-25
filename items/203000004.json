@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_vest_4",
+  "Img": "/png",
+  "itemID": "203000004",
+  "description": "Singlet (Camouflage)",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

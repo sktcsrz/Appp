@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_NBLB_50",
+  "Img": "/png",
+  "itemID": "170050002",
+  "description": "Lone Wolf Ranked Leaderboard Reward",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "ORANGE",
+  "AbIconID": "170050002",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

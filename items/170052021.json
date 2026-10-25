@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_ngacc1_LOT_52",
+  "Img": "/png",
+  "itemID": "170052021",
+  "description": "Newbie Green Apparel Choice Crate 1",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "GREEN",
+  "AbIconID": "170052021",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "NONE",
+  "Img": "/png",
+  "itemID": "202210012",
+  "description": "FFWS Championship",
+  "description2": "The Play-ins will feature 9 teams battling it out to earn a spot at the Finals. The top 4 teams from the Play-ins will join the 8 top-seeded teams, and form the 12 teams who will compete to be winners of the FFWS 2022 Bangkok.nnThe teams will battle over 8 rounds – across 4 maps – to be the last one standing, with points awarded based on round ranking and the number of eliminations.",
+  "Rare": "BLUE",
+  "AbIconID": "4294967295",
+  "isUnique": "true",
+  "IconInAB": "NORMAL",
+  "itemType": "DEBRIS",
+  "collectionType": "NONE",
+  "tag": ""
+}

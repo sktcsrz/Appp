@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_npwcc1_LOT_52",
+  "Img": "/png",
+  "itemID": "170052019",
+  "description": "Newbie Purple Weapon Choice Crate 2",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170052019",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

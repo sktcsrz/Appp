@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_default",
+  "Img": "/png",
+  "itemID": "170050001",
+  "description": "VIP Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "BLUE",
+  "AbIconID": "170050001",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

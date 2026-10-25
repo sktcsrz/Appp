@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_ngwcc1_LOT_52",
+  "Img": "/png",
+  "itemID": "170052012",
+  "description": "Newbie Green Weapon Choice Crate 1",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "GREEN",
+  "AbIconID": "170052012",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

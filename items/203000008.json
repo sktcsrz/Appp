@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_shirt_4",
+  "Img": "/png",
+  "itemID": "203000008",
+  "description": "Shirt (White)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000008",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

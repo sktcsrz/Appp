@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_vest_2",
+  "Img": "/png",
+  "itemID": "203000002",
+  "description": "Singlet (Blue)",
+  "description2": "NONE",
+  "Rare": "GREEN",
+  "AbIconID": "203000002",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

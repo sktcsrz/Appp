@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_LCB1_49",
+  "Img": "/png",
+  "itemID": "170049002",
+  "description": "Lion Cereal Box 01",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "BLUE",
+  "AbIconID": "170049002",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

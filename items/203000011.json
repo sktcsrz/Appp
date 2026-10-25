@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_3",
+  "Img": "/png",
+  "itemID": "203000011",
+  "description": "T-shirt (Grey)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000011",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_FFWS_Box1_46_Hotfix",
+  "Img": "/png",
+  "itemID": "170046100",
+  "description": "FFWS 2024 GF Team Avatar Choice Crate",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170046100",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

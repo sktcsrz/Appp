@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_ngpscc_LOT_52",
+  "Img": "/png",
+  "itemID": "170052029",
+  "description": "Newbie Green Pet Skin Choice Crate",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "GREEN",
+  "AbIconID": "170052029",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

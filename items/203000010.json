@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_2",
+  "Img": "/png",
+  "itemID": "203000010",
+  "description": "T-shirt (Orange)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000010",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

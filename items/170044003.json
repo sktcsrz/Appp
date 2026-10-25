@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_slot_M4A1",
+  "Img": "/png",
+  "itemID": "170044003",
+  "description": "NONE",
+  "description2": "NONE",
+  "Rare": "WHITE",
+  "AbIconID": "170044003",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "COLLECTION",
+  "collectionType": "WEAPON_SKIN",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Loadout_52",
+  "Img": "/png",
+  "itemID": "170052035",
+  "description": "Loadout Choice Crate",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "ORANGE",
+  "AbIconID": "170052035",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}
