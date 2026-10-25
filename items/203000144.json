@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_keepcalm_red_04",
+  "Img": "/png",
+  "itemID": "203000144",
+  "description": "Keep calm",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000144",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

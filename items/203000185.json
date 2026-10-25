@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_female_top_cos_police_blue",
+  "Img": "/png",
+  "itemID": "203000185",
+  "description": "Enforcer Shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000185",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

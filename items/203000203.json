@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_annual6",
+  "Img": "/png",
+  "itemID": "203000203",
+  "description": "6-month Anniversary",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000203",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

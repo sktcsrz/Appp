@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_France",
+  "Img": "/png",
+  "itemID": "203000190",
+  "description": "La Coq Gaulois",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000190",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

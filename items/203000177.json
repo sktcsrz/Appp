@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_thaiboxer_top",
+  "Img": "/png",
+  "itemID": "203000177",
+  "description": "Avenger's Fists (Top)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000177",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

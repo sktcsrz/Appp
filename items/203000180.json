@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_one-eyed_grey",
+  "Img": "/png",
+  "itemID": "203000180",
+  "description": "One-eyed Suit (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000180",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

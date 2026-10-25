@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_easter_purple",
+  "Img": "/png",
+  "itemID": "203000116",
+  "description": "Easter Egg Hunt #2",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000116",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

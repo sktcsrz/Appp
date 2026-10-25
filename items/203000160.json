@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_foodieboy_top_002",
+  "Img": "/png",
+  "itemID": "203000160",
+  "description": "Foodie Silver Top",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000160",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

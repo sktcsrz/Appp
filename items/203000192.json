@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Argentina",
+  "Img": "/png",
+  "itemID": "203000192",
+  "description": "Pampas Eagle",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000192",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

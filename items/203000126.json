@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_elephant_4",
+  "Img": "/png",
+  "itemID": "203000126",
+  "description": "Songkran Elephant #4",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000126",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

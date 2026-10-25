@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Mexico",
+  "Img": "/png",
+  "itemID": "203000196",
+  "description": "Aztec Eagle",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000196",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

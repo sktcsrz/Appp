@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_standcollar_brown",
+  "Img": "/png",
+  "itemID": "203000133",
+  "description": "Stand Collar Shirt (male)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000133",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

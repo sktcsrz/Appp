@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_gold_S3",
+  "Img": "/png",
+  "itemID": "203000150",
+  "description": "Golden Proof",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000150",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

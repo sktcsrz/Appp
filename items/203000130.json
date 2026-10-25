@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_top_cos_cowboy_brown",
+  "Img": "/png",
+  "itemID": "203000130",
+  "description": "Rider Jacket",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000130",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

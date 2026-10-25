@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_shirt_tie",
+  "Img": "/png",
+  "itemID": "203000202",
+  "description": "After-hours",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000202",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

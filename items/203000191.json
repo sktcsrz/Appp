@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Peru",
+  "Img": "/png",
+  "itemID": "203000191",
+  "description": "Inca Warrior",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000191",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

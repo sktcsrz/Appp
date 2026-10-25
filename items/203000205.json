@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_fatherday_black",
+  "Img": "/png",
+  "itemID": "203000205",
+  "description": "Dearest Daddy",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000205",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

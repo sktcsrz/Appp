@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_CostaRica",
+  "Img": "/png",
+  "itemID": "203000194",
+  "description": "Carribean Hurricane",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000194",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

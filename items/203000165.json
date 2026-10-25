@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_hoodie_zipper_grey",
+  "Img": "/png",
+  "itemID": "203000165",
+  "description": "Grey Zipper Hoodie",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000165",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

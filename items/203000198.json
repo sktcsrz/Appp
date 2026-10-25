@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Belgium",
+  "Img": "/png",
+  "itemID": "203000198",
+  "description": "Red Devils",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000198",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

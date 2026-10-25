@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_backschool",
+  "Img": "/png",
+  "itemID": "203000140",
+  "description": "Back to school",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000140",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

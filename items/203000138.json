@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_tshirt_Mario",
+  "Img": "/png",
+  "itemID": "203000138",
+  "description": "Plumber top (female)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000138",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

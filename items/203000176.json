@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_korea_esports",
+  "Img": "/png",
+  "itemID": "203000176",
+  "description": "토요프파 티셔츠",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000176",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_mother",
+  "Img": "/png",
+  "itemID": "203000149",
+  "description": "Mother's Day",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000149",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

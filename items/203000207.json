@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_master_S4",
+  "Img": "/png",
+  "itemID": "203000207",
+  "description": "S4 Master",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000207",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

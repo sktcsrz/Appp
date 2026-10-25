@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_undershirt_shark",
+  "Img": "/png",
+  "itemID": "203000213",
+  "description": "Jaws",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000213",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

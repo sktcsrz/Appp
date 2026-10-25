@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_England_B",
+  "Img": "/png",
+  "itemID": "203000199",
+  "description": "Three Lions",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000199",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_tshirt_Mario",
+  "Img": "/png",
+  "itemID": "203000137",
+  "description": "Plumber top (male)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000137",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

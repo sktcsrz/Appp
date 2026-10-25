@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Russia",
+  "Img": "/png",
+  "itemID": "203000186",
+  "description": "Polar Bear",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000186",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

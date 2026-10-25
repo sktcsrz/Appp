@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Poland",
+  "Img": "/png",
+  "itemID": "203000200",
+  "description": "Winged Hussar",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000200",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

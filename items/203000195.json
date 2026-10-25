@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Germany",
+  "Img": "/png",
+  "itemID": "203000195",
+  "description": "Iron Tank",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000195",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

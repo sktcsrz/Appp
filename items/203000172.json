@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_jacket_japanspray",
+  "Img": "/png",
+  "itemID": "203000172",
+  "description": "Tsunami Jacket",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000172",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Brazil",
+  "Img": "/png",
+  "itemID": "203000193",
+  "description": "Samba Troupe",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000193",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

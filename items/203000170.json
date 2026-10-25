@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_male_tshirt_japanesestyle",
+  "Img": "/png",
+  "itemID": "203000170",
+  "description": "Bushido Robe",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000170",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

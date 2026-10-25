@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Uruguay",
+  "Img": "/png",
+  "itemID": "203000187",
+  "description": "The Claw of Charrua",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000187",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

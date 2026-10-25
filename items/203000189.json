@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Portugal",
+  "Img": "/png",
+  "itemID": "203000189",
+  "description": "Navigator",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000189",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

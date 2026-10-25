@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_foodieboy_top_jacket",
+  "Img": "/png",
+  "itemID": "203000174",
+  "description": "Foodie Jacket",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000174",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

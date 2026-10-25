@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_shopee_001",
+  "Img": "/png",
+  "itemID": "203000175",
+  "description": "Shopee T-shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000175",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

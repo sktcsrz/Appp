@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_Columbia",
+  "Img": "/png",
+  "itemID": "203000201",
+  "description": "Golden Caffeine",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000201",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
