@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_default",
+  "Img": "/png",
+  "itemID": "170030011",
+  "description": "CIS Pumpkin Box",
+  "description2": "Open up to get amazing rewards",
+  "Rare": "BLUE",
+  "AbIconID": "241009",
+  "isUnique": "false",
+  "IconInAB": "NORMAL",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

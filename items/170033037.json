@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_default",
+  "Img": "/png",
+  "itemID": "170033037",
+  "description": "Children's Day Box",
+  "description2": "Happy Children's Day!",
+  "Rare": "PURPLE",
+  "AbIconID": "241009",
+  "isUnique": "false",
+  "IconInAB": "NORMAL",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

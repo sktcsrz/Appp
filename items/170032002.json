@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_default",
+  "Img": "/png",
+  "itemID": "170032002",
+  "description": "Your Choice Crate 1",
+  "description2": "Choose Wisely",
+  "Rare": "PURPLE",
+  "AbIconID": "241009",
+  "isUnique": "false",
+  "IconInAB": "NORMAL",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

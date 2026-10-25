@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_default",
+  "Img": "/png",
+  "itemID": "170030001",
+  "description": "Choice Loot Crate",
+  "description2": "Choose wisely",
+  "Rare": "BLUE",
+  "AbIconID": "241009",
+  "isUnique": "false",
+  "IconInAB": "NORMAL",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

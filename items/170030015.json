@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_default",
+  "Img": "/png",
+  "itemID": "170030015",
+  "description": "Weapon Skin Gift Box",
+  "description2": "Get one 30-day trial gun skin of your choice from the six below: [D048CCFF]Futuristic(SCAR), MP40- Sneaky Clown, M1014- Winterlands, Thompson- Time Travellers, FAMAS- Swagger Ownage, M4A1- Pink Laminate[-]",
+  "Rare": "PURPLE",
+  "AbIconID": "241009",
+  "isUnique": "false",
+  "IconInAB": "NORMAL",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

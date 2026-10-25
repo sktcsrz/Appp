@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_Pchoice_31",
+  "Img": "/png",
+  "itemID": "170031002",
+  "description": "Your Pet's Choice Box",
+  "description2": "Choose and get your favorite pet!",
+  "Rare": "PURPLE",
+  "AbIconID": "170031002",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

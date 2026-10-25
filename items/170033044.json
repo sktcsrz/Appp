@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Character",
+  "Img": "/png",
+  "itemID": "170033044",
+  "description": "Character Choice Crate",
+  "description2": "Open to claim your favorite character",
+  "Rare": "PURPLE",
+  "AbIconID": "170033044",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

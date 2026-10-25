@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Gloo_33",
+  "Img": "/png",
+  "itemID": "170033036",
+  "description": "Gloo Wall Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170033036",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

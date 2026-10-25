@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_Cchoice_31",
+  "Img": "/png",
+  "itemID": "170031003",
+  "description": "Your Character's Choice Box",
+  "description2": "Choose and get your favorite character!",
+  "Rare": "PURPLE",
+  "AbIconID": "170031003",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}
