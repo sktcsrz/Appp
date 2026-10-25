@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Blacksmith",
+  "Img": "/png",
+  "itemID": "102000036",
+  "description": "Kenta",
+  "description2": "Kenta is Hayato's bodyguard and a skilled weaponsmith.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000036",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

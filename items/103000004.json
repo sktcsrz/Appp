@@ -1,0 +1,14 @@
+{
+  "icon": "FF_UI_CharacterSkill_Bounty",
+  "Img": "/png",
+  "itemID": "103000004",
+  "description": "Chrono's Microchip",
+  "description2": "Use to obtain Chrono's skill - Time Turner",
+  "Rare": "PURPLE",
+  "AbIconID": "103000004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

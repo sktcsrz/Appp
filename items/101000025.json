@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Crazygirl",
+  "Img": "/png",
+  "itemID": "101000025",
+  "description": "Iris",
+  "description2": "Iris is a deaf, tech-modded assassin who had a large hand in shaping the city she lives in.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000025",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

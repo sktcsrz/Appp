@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Falconer",
+  "Img": "/png",
+  "itemID": "102000028",
+  "description": "Maro",
+  "description2": "Maro is a professional falconer.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000028",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

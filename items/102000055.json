@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Mysteryman",
+  "Img": "/png",
+  "itemID": "102000055",
+  "description": "Morse",
+  "description2": "Silent and free like a mouse, Morse never leaves a trace behind. He slips between the real world and the web, driven only by self-interests.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000055",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

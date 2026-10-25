@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Researcher",
+  "Img": "/png",
+  "itemID": "101000021",
+  "description": "Snowelle",
+  "description2": "Snowelle is a nanotech engineer.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000021",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

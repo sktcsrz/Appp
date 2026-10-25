@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Singers",
+  "Img": "/png",
+  "itemID": "102000038",
+  "description": "J.Biebs",
+  "description2": "J.Biebs is a singer who dedicates his life and uses his singing to reunite the world.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000038",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

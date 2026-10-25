@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Delivery",
+  "Img": "/png",
+  "itemID": "102000026",
+  "description": "Shirou",
+  "description2": "Shirou is the fastest delivery guy around.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000026",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

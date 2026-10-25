@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Geek",
+  "Img": "/png",
+  "itemID": "102000045",
+  "description": "Ryden",
+  "description2": "A 16-year-old genius inventor with knowledge beyond his age. Once a little boy who sought refuge under the protection of his sister, Suzy, he now bravely stands on the battlefield with his inventions.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000045",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

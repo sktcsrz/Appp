@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_hitman",
+  "Img": "/png",
+  "itemID": "102000013",
+  "description": "Rafael",
+  "description2": "Rafeal is a hitman.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000013",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

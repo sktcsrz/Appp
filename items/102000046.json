@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Dualman",
+  "Img": "/png",
+  "itemID": "102000046",
+  "description": "Kairos",
+  "description2": "A former soldier of the Special Forces. His fate took a sharp turn when encountering a mysterious energy source, which transformed his body and instilled a constant craving for more energy.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000046",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

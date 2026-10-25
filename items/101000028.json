@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Assassingirl",
+  "Img": "/png",
+  "itemID": "101000028",
+  "description": "Suzy",
+  "description2": "Suzy is a formidable bounty assassin who is kind at heart. She has a soft spot for orphans and is willing to continue her profession to prevent them from having a similar childhood as hers.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000028",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

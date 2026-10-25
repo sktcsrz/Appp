@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_richgirl",
+  "Img": "/png",
+  "itemID": "101000010",
+  "description": "Caroline",
+  "description2": "A schoolgirl from an extremely wealthy family.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000010",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

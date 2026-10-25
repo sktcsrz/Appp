@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Bounty",
+  "Img": "/png",
+  "itemID": "102000024",
+  "description": "Chrono",
+  "description2": "Chrono is a bounty hunter from another universe.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000024",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

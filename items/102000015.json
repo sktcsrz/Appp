@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Djmale",
+  "Img": "/png",
+  "itemID": "102000015",
+  "description": "Alok",
+  "description2": "Alok is a world famous DJ, ready to drop a beat.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000015",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_ShadowGirl",
+  "Img": "/png",
+  "itemID": "101000053",
+  "description": "Rin",
+  "description2": "Hayato's younger sister, a skilled and calm ninja. As the second child of the Yagami family, she dwells in the shadow to keep her family's flame alive.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000053",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Agent",
+  "Img": "/png",
+  "itemID": "101000012",
+  "description": "Laura",
+  "description2": "Laura is an outstanding special agent.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000012",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

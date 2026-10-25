@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Auroraboy",
+  "Img": "/png",
+  "itemID": "102000051",
+  "description": "Koda",
+  "description2": "Born in the arctic region, Koda was once led by a snow fox to find a mask embedded with advanced tech of his village. The nature-loving boy has longed for an adventure in the outside world. As he met Wolfrahh while playing games online and, later on, Leon and his sister, Koda began to explore what is beyond the familiar.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000051",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

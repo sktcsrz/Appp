@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_KpopSinger",
+  "Img": "/png",
+  "itemID": "101000018",
+  "description": "Kapella",
+  "description2": "Kapella is a popular pop singer and star.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000018",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

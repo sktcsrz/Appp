@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_MischiefGirl",
+  "Img": "/png",
+  "itemID": "101000050",
+  "description": "Lila",
+  "description2": "A cool, spry girl from the city of La Luna with excellent parkour skills and a playful nature. She likes to work with Mr. Waggor, outsmarting their foes together with clever pranks and innovative Gloo inventions.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000050",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

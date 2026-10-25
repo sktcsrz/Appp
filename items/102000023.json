@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_MMAFighter",
+  "Img": "/png",
+  "itemID": "102000023",
+  "description": "Sverr",
+  "description2": "Sverr is a top-tier MMA fighter.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000023",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

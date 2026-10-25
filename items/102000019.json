@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_StreamerGuy",
+  "Img": "/png",
+  "itemID": "102000019",
+  "description": "Wolfrahh",
+  "description2": "Wolfrahh is a game streamer and esport player.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000019",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

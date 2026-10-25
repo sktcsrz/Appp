@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_seaman",
+  "Img": "/png",
+  "itemID": "102000006",
+  "description": "Ford",
+  "description2": "Ford is trained at sea and extremely tough.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000006",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Villain",
+  "Img": "/png",
+  "itemID": "102000041",
+  "description": "Orion",
+  "description2": "Orion is a former mercenary who underwent a biological transformation and obtained a formidable power.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000041",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Designer",
+  "Img": "/png",
+  "itemID": "102000040",
+  "description": "Santino",
+  "description2": "Santino Valentine is a fashion designer, who is always a trending subject in the fashion world and on social media.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000040",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

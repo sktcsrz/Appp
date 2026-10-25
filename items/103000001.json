@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_normal02",
+  "Img": "/png",
+  "itemID": "103000001",
+  "description": "Private",
+  "description2": "Private relationship locked",
+  "Rare": "NONE",
+  "AbIconID": "103000001",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "DEBRIS",
+  "collectionType": "NONE",
+  "tag": ""
+}

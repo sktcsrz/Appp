@@ -1,0 +1,14 @@
+{
+  "icon": "ui_icon_skill_Pre_L",
+  "Img": "/png",
+  "itemID": "101999999",
+  "description": "TestGirl",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "101999999",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

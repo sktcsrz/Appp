@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_MuertoGuy",
+  "Img": "/png",
+  "itemID": "102000033",
+  "description": "Otho",
+  "description2": "Otho is a memory tech engineer at a polytech university.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000033",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_BrazilSoldier",
+  "Img": "/png",
+  "itemID": "102000009",
+  "description": "Miguel",
+  "description2": "Miguel is the commander of a section in the special forces.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000009",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "FF_UI_CharacterSkill_Singers",
+  "Img": "/png",
+  "itemID": "103000003",
+  "description": "J.Biebs' Microchip",
+  "description2": "Use to obtain J.Biebs's skill - Silent Sentinel",
+  "Rare": "PURPLE",
+  "AbIconID": "103000003",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_foodieboy",
+  "Img": "/png",
+  "itemID": "102000007",
+  "description": "Maxim",
+  "description2": "Maxim is a competitive eater.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000007",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

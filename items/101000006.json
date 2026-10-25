@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_runner",
+  "Img": "/png",
+  "itemID": "101000006",
+  "description": "Kelly",
+  "description2": "Kelly is an athlete, a sprinter.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000006",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

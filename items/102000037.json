@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Tracker",
+  "Img": "/png",
+  "itemID": "102000037",
+  "description": "Homer",
+  "description2": "Homer is a blind assassin whose other senses more than make up for his lost one.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000037",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

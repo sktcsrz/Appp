@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_WinterGuy",
+  "Img": "/png",
+  "itemID": "102000034",
+  "description": "Nairi",
+  "description2": "Nairi is a storm chaser who researches about climate technology.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000034",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

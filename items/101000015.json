@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Awakening",
+  "Img": "/png",
+  "itemID": "101000015",
+  "description": "Kelly \"the Swift\"",
+  "description2": "Kelly's potential is unlocked for use.",
+  "Rare": "ORANGE",
+  "AbIconID": "101000015",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

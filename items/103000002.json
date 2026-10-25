@@ -1,0 +1,14 @@
+{
+  "icon": "FF_UI_CharacterSkill_SwatGuy",
+  "Img": "/png",
+  "itemID": "103000002",
+  "description": "Jai's Microchip",
+  "description2": "Use to obtain Jai's skill - Raging Reload",
+  "Rare": "PURPLE",
+  "AbIconID": "103000002",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

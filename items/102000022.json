@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Professor",
+  "Img": "/png",
+  "itemID": "102000022",
+  "description": "K",
+  "description2": "K is a professor and jiu-jitsu expert.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000022",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

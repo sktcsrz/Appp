@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Djmale_Awakening",
+  "Img": "/png",
+  "itemID": "102000043",
+  "description": "Awakened Alok",
+  "description2": "Awakened Alok illuminates the world with music and color.",
+  "Rare": "ORANGE",
+  "AbIconID": "102000043",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

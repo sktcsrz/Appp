@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Superstar",
+  "Img": "/png",
+  "itemID": "102000025",
+  "description": "Skyler",
+  "description2": "Skyler is a CEO and superstar.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000025",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

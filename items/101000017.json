@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Graffitist",
+  "Img": "/png",
+  "itemID": "101000017",
+  "description": "Steffie",
+  "description2": "Steffie is a pro graffiti artist.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000017",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

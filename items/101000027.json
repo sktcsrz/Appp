@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Nanoscientist",
+  "Img": "/png",
+  "itemID": "101000027",
+  "description": "Sonia",
+  "description2": "Sonia is a genetically modified nanoscientist with exceptional intelligence and expertise in nanobiotechnology.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000027",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

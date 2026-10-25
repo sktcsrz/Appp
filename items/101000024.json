@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_RhythmGirl",
+  "Img": "/png",
+  "itemID": "101000024",
+  "description": "A-Patroa",
+  "description2": "A-Patroa is an owner of a music shop, which doubles as a safe haven for the local community. She uses her music to rehabilitate people.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000024",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

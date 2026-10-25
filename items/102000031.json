@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_MusicBro1",
+  "Img": "/png",
+  "itemID": "102000031",
+  "description": "Dimitri",
+  "description2": "Dimitri is a world renowned sound technology engineer.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000031",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_StreetBeat",
+  "Img": "/png",
+  "itemID": "102000029",
+  "description": "D-bee",
+  "description2": "D-bee is a music maker and streetdancer.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000029",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

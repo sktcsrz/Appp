@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Superteen",
+  "Img": "/png",
+  "itemID": "102000044",
+  "description": "Ignis",
+  "description2": "Ignis is a superpowered teenager who was born with the ability to \"ignite\". Although sometimes his power causes even bigger problems, he still steps up to fight crime and uphold justice.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000044",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Yakuza",
+  "Img": "/png",
+  "itemID": "102000039",
+  "description": "Tatsuya",
+  "description2": "Tatsuya is a hothead who is willing to trust to make his city a better place.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000039",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

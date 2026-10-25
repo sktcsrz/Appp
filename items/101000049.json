@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Electricgirl",
+  "Img": "/png",
+  "itemID": "101000049",
+  "description": "Kassie",
+  "description2": "A paranoid, eccentric neuroscientist who walks the line between good and evil. She is obsessed with electroshock therapies and follows her own set of rules.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000049",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

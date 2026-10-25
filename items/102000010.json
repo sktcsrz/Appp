@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_gangleader",
+  "Img": "/png",
+  "itemID": "102000010",
+  "description": "Antonio",
+  "description2": "Antonio was an orphan who grew up to be a gangster.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000010",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

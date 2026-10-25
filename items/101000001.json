@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female01_head",
+  "Img": "/png",
+  "itemID": "101000001",
+  "description": "Nulla",
+  "description2": "Nobody knows how she got onto Bermuda, except that she was here before everyone else. Extremely good at adapting to the environment, she is like a chameleon that survives and thrives.",
+  "Rare": "NONE",
+  "AbIconID": "101000001",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

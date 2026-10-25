@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_cop",
+  "Img": "/png",
+  "itemID": "102000005",
+  "description": "Andrew",
+  "description2": "Andrew was once a police officer.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000005",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

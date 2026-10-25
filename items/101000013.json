@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_MadeManA",
+  "Img": "/png",
+  "itemID": "101000013",
+  "description": "A124",
+  "description2": "A124 is a robot made with modern technology.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000013",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

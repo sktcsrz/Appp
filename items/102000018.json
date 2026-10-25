@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_SoccerStar",
+  "Img": "/png",
+  "itemID": "102000018",
+  "description": "Luqueta",
+  "description2": "Luqueta is an up and rising soccer star.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000018",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

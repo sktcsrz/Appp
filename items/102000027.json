@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Andrew_Awakening",
+  "Img": "/png",
+  "itemID": "102000027",
+  "description": "Andrew \"the Fierce\"",
+  "description2": "Andrew \"the Fierce\"is a man on a mission.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000027",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

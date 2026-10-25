@@ -1,0 +1,14 @@
+{
+  "icon": "UI_Icon_BlackWhite_01",
+  "Img": "/png",
+  "itemID": "102000035",
+  "description": "Thala",
+  "description2": "Thala is a man full of motivation despite having grown up under challenging circumstances. He achieved success through sheer hard work and is now determined to help others find their light.",
+  "Rare": "PURPLE",
+  "AbIconID": "4294967295",
+  "isUnique": "true",
+  "IconInAB": "NORMAL",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Demolitionist_Awakening",
+  "Img": "/png",
+  "itemID": "102000042",
+  "description": "Alvaro \"Rageblast\"",
+  "description2": "Alvaro \"Firebrand\"is a wild but skilled demolitionist.",
+  "Rare": "ORANGE",
+  "AbIconID": "102000042",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

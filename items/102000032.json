@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_BooyahGuy",
+  "Img": "/png",
+  "itemID": "102000032",
+  "description": "Leon",
+  "description2": "Leon is a rising star in the basketball scene.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000032",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

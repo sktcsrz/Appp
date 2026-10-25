@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_ParkourGuy",
+  "Img": "/png",
+  "itemID": "102000017",
+  "description": "Jota",
+  "description2": "Jota is a parkour expert and stuntman.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000017",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

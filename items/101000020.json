@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_PartyGirl",
+  "Img": "/png",
+  "itemID": "101000020",
+  "description": "Dasha",
+  "description2": "Dasha is a prankster and rebel.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000020",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

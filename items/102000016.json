@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Demolitionist",
+  "Img": "/png",
+  "itemID": "102000016",
+  "description": "Alvaro",
+  "description2": "Alvaro is a wild but skilled demolitionist.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000016",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

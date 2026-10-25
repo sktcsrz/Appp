@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_HackerGirl",
+  "Img": "/png",
+  "itemID": "101000011",
+  "description": "Moco",
+  "description2": "Moco is an outstanding hacker.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000011",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

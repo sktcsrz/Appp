@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_racergirl",
+  "Img": "/png",
+  "itemID": "101000008",
+  "description": "Misha",
+  "description2": "Misha is an extremely talented racer.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000008",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

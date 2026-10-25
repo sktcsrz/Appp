@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Samurai",
+  "Img": "/png",
+  "itemID": "102000012",
+  "description": "Hayato",
+  "description2": "Hayato is a legendary Samurai",
+  "Rare": "PURPLE",
+  "AbIconID": "102000012",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

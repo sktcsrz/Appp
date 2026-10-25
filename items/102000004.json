@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male04_head",
+  "Img": "/png",
+  "itemID": "102000004",
+  "description": "Primis",
+  "description2": "Nobody knows how he got onto Bermuda, except that he was here before everyone else. Extremely good at adapting to the environment, he is like a chameleon that survives and thrives.",
+  "Rare": "WHITE",
+  "AbIconID": "102000004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

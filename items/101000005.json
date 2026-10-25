@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_nurse",
+  "Img": "/png",
+  "itemID": "101000005",
+  "description": "Olivia",
+  "description2": "Chief nurse of a renowned hospital.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000005",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

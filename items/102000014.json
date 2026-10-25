@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Playboy",
+  "Img": "/png",
+  "itemID": "102000014",
+  "description": "Joseph",
+  "description2": "Joseph is a well-known physicist, but he is also a player.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000014",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

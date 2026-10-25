@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Xtreme",
+  "Img": "/png",
+  "itemID": "101000022",
+  "description": "Xayne",
+  "description2": "Xayne is an extreme sports athlete.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000022",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

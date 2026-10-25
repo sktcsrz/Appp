@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female01_head",
+  "Img": "/png",
+  "itemID": "101000004",
+  "description": "NONE",
+  "description2": "NONE",
+  "Rare": "WHITE",
+  "AbIconID": "101000004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

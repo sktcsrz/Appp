@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Moco_Awakening",
+  "Img": "/png",
+  "itemID": "101000023",
+  "description": "Moco \"Enigma\"",
+  "description2": "Moco \"Enigma\"knows what she has to do.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000023",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

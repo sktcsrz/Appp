@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_Tomboy",
+  "Img": "/png",
+  "itemID": "101000016",
+  "description": "Notora",
+  "description2": "Notora is a tomboyish motorcycle gang member.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000016",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

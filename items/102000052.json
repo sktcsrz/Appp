@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_CityHeroBoy",
+  "Img": "/png",
+  "itemID": "102000052",
+  "description": "Oscar",
+  "description2": "A brilliant, even slightly overachieving student by day and a beloved vigilante by night. With his flashy physical prowess, Oscar leaps through the shadows to take down the evil.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000052",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

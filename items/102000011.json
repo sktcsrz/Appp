@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_monkeygod",
+  "Img": "/png",
+  "itemID": "102000011",
+  "description": "Wukong",
+  "description2": "Monkey King is Here!",
+  "Rare": "PURPLE",
+  "AbIconID": "102000011",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

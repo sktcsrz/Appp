@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_StreamerGuy",
+  "Img": "/png",
+  "itemID": "102200019",
+  "description": "NONE",
+  "description2": "NONE",
+  "Rare": "NONE",
+  "AbIconID": "102200019",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

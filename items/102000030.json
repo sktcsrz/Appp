@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_MusicBro2",
+  "Img": "/png",
+  "itemID": "102000030",
+  "description": "Thiva",
+  "description2": "Thiva is a rising singer-musician star.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000030",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_armsdealer",
+  "Img": "/png",
+  "itemID": "101000009",
+  "description": "Paloma",
+  "description2": "Paloma is the reigning arms queen of the underworld.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000009",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

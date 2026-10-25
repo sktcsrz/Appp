@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Dreamlandboy",
+  "Img": "/png",
+  "itemID": "102000054",
+  "description": "Nero",
+  "description2": "A miraculous survivor of a brutal freeze, who gained the power to shape dreams on his last legs. All-powerful in the dreamspace, he acts solitarily and stays untraceable in the waking world.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000054",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

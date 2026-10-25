@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_Hayato_Awakening",
+  "Img": "/png",
+  "itemID": "102000020",
+  "description": "Hayato \"Firebrand\"",
+  "description2": "Something has awakened inside Hayato.",
+  "Rare": "ORANGE",
+  "AbIconID": "102000020",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

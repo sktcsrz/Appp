@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_SwatGuy",
+  "Img": "/png",
+  "itemID": "102000021",
+  "description": "Jai",
+  "description2": "Jai is a decorated SWAT commander.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000021",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

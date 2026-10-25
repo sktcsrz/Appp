@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_female_head_sc_GangGirl",
+  "Img": "/png",
+  "itemID": "101000026",
+  "description": "Luna",
+  "description2": "Luna is the spark plug and an extremely capable leader of the Guild.",
+  "Rare": "PURPLE",
+  "AbIconID": "101000026",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}

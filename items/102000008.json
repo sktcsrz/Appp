@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_face_male_head_sc_thaiboxer",
+  "Img": "/png",
+  "itemID": "102000008",
+  "description": "Kla",
+  "description2": "Kla is a renowned Muay Thai practitioner.",
+  "Rare": "PURPLE",
+  "AbIconID": "102000008",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "AVATAR",
+  "collectionType": "NONE",
+  "tag": ""
+}
