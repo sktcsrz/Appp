@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Backpack01",
+  "Img": "/png",
+  "itemID": "170036010",
+  "description": "Backpack Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170036010",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

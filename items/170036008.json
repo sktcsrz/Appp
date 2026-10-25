@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_parachute",
+  "Img": "/png",
+  "itemID": "170036008",
+  "description": "Parachute Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170036008",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

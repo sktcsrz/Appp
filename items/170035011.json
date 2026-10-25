@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Pet",
+  "Img": "/png",
+  "itemID": "170035011",
+  "description": "Pet Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170035011",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

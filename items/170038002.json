@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_evogun_38",
+  "Img": "/png",
+  "itemID": "170038002",
+  "description": "Evo Gun Token Choice Crate",
+  "description2": "Get an evo gun token of your choice",
+  "Rare": "ORANGE",
+  "AbIconID": "170038002",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

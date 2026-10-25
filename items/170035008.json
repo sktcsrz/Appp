@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Character1",
+  "Img": "/png",
+  "itemID": "170035008",
+  "description": "Character Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170035008",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

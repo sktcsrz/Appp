@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Lootbox",
+  "Img": "/png",
+  "itemID": "170036024",
+  "description": "Loot Box Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170036024",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

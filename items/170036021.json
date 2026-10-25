@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_GlooWall",
+  "Img": "/png",
+  "itemID": "170036021",
+  "description": "Gloo Wall Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170036021",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Survey",
+  "Img": "/png",
+  "itemID": "170035001",
+  "description": "Survivor's Choice Crate",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170035001",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

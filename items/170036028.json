@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Bundle",
+  "Img": "/png",
+  "itemID": "170036028",
+  "description": "Returning Players Gift",
+  "description2": "A special welcome back gift for returning players!",
+  "Rare": "PURPLE",
+  "AbIconID": "170036028",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

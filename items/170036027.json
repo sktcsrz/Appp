@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Emote",
+  "Img": "/png",
+  "itemID": "170036027",
+  "description": "Emote Choice Box",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "BLUE",
+  "AbIconID": "170036027",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

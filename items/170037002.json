@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_box_EmojiB_BP_37",
+  "Img": "/png",
+  "itemID": "170037002",
+  "description": "Booyah Pass Pet Choice Crate",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "ORANGE",
+  "AbIconID": "170037002",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}

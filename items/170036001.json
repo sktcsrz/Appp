@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_OptionalBundle_Newbie",
+  "Img": "/png",
+  "itemID": "170036001",
+  "description": "Newbie Optional Character's Bundle",
+  "description2": "Open to receive exciting rewards",
+  "Rare": "PURPLE",
+  "AbIconID": "170036001",
+  "isUnique": "false",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "OPTIONAL_BUNDLE",
+  "collectionType": "NONE",
+  "tag": ""
+}
