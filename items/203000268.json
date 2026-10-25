@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_BrazilSoldier_top",
+  "Img": "/png",
+  "itemID": "203000268",
+  "description": "Guardian Angel (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000268",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

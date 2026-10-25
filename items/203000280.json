@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_EP_pirate",
+  "Img": "/png",
+  "itemID": "203000280",
+  "description": "Captain's Order (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000280",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

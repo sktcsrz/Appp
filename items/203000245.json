@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_royal",
+  "Img": "/png",
+  "itemID": "203000245",
+  "description": "Royal Ceremony",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000245",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

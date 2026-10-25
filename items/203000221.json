@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sweater_turtleneck_black",
+  "Img": "/png",
+  "itemID": "203000221",
+  "description": "Black Turtleneck",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000221",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

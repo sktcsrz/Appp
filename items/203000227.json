@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_anchor",
+  "Img": "/png",
+  "itemID": "203000227",
+  "description": "Streamer T-shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000227",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

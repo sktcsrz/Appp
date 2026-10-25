@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_cthulhu",
+  "Img": "/png",
+  "itemID": "203000284",
+  "description": "Pink Spirit",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000284",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

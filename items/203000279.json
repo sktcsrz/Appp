@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_ballet",
+  "Img": "/png",
+  "itemID": "203000279",
+  "description": "The Ballet Dancer",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000279",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

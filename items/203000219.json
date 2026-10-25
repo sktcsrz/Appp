@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_ASUS_jacket",
+  "Img": "/png",
+  "itemID": "203000219",
+  "description": "Rider Jacket (Male)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000219",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

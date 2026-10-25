@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_top_cos_halloweenskull",
+  "Img": "/png",
+  "itemID": "203000317",
+  "description": "Skull Rider (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203000317",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

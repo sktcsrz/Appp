@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_cos_Prison",
+  "Img": "/png",
+  "itemID": "203000247",
+  "description": "Jailbird (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000247",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

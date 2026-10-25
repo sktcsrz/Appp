@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_pirate_A",
+  "Img": "/png",
+  "itemID": "203000257",
+  "description": "Pirate's Soul",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000257",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

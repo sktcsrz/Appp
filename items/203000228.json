@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_GrayWolf",
+  "Img": "/png",
+  "itemID": "203000228",
+  "description": "Graywolf",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000228",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

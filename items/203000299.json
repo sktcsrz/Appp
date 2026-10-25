@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_themoon",
+  "Img": "/png",
+  "itemID": "203000299",
+  "description": "Astronaut",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000299",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

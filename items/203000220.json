@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_shirt_Gillette",
+  "Img": "/png",
+  "itemID": "203000220",
+  "description": "Gillette Shirt",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000220",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

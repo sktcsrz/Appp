@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_sc_armsdealer_top",
+  "Img": "/png",
+  "itemID": "203000243",
+  "description": "Arms Queen (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000243",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
