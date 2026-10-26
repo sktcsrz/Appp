@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_Gillette",
+  "Img": "/png",
+  "itemID": "204000127",
+  "description": "Gillette Pants",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000127",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_male_shortpants_flap_blue",
+  "Img": "/png",
+  "itemID": "204000105",
+  "description": "Denim Shorts (Male)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000105",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

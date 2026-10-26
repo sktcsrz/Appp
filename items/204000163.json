@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_EP_pirate",
+  "Img": "/png",
+  "itemID": "204000163",
+  "description": "Pirate's Fantasy (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000163",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

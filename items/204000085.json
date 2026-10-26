@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_pants_Mario",
+  "Img": "/png",
+  "itemID": "204000085",
+  "description": "Mamamia",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000085",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

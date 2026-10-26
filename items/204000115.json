@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_BallPants_Black",
+  "Img": "/png",
+  "itemID": "204000115",
+  "description": "Shadows",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000115",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

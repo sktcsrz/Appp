@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_cheer",
+  "Img": "/png",
+  "itemID": "204000113",
+  "description": "Cheerleader (Skirt)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000113",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_BallPants_White",
+  "Img": "/png",
+  "itemID": "204000120",
+  "description": "White Hurricane",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000120",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

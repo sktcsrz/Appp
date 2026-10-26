@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_ninja",
+  "Img": "/png",
+  "itemID": "204000121",
+  "description": "TXT_AVATAR_OB8_LZW_MALE_BOTTOM_COS_NINJA",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000121",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

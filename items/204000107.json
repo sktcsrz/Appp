@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_thaiboxer_bottom",
+  "Img": "/png",
+  "itemID": "204000107",
+  "description": "Avenger's Fists (Legs)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000107",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

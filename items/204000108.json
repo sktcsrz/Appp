@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_baseball_green",
+  "Img": "/png",
+  "itemID": "204000108",
+  "description": "Baseballer (Tights)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000108",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

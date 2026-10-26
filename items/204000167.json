@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_topgamer",
+  "Img": "/png",
+  "itemID": "204000167",
+  "description": "Top Gamer (Bottom)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "204000167",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_BallPants_Brazil",
+  "Img": "/png",
+  "itemID": "204000116",
+  "description": "Conquerors' Blue",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000116",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

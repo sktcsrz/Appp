@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_iceage",
+  "Img": "/png",
+  "itemID": "204000171",
+  "description": "Ice Age (Bottom)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000171",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

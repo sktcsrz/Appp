@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_female_shortpants_flap_blue",
+  "Img": "/png",
+  "itemID": "204000104",
+  "description": "Denim Shorts (Female)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000104",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

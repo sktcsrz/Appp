@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_swimsuit_blue",
+  "Img": "/png",
+  "itemID": "204000093",
+  "description": "Bikini bottom",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000093",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

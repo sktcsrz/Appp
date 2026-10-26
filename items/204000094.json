@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_swimsuit_blue",
+  "Img": "/png",
+  "itemID": "204000094",
+  "description": "Beach shorts",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000094",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

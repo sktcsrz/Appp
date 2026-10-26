@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_cowboy_brown",
+  "Img": "/png",
+  "itemID": "204000077",
+  "description": "Wild West Cowboy",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000077",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

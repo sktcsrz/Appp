@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_bottom_cos_Prison",
+  "Img": "/png",
+  "itemID": "204000141",
+  "description": "Jailbird (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000141",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

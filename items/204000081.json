@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_standcollar_blue",
+  "Img": "/png",
+  "itemID": "204000081",
+  "description": "Stand Collar Pants (male)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000081",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

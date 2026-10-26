@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_bottom_cos_levelup",
+  "Img": "/png",
+  "itemID": "204000149",
+  "description": "Promoted (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000149",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

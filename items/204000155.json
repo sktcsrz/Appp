@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_Clown",
+  "Img": "/png",
+  "itemID": "204000155",
+  "description": "Night Clown (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "204000155",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

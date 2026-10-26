@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_Idsoldier",
+  "Img": "/png",
+  "itemID": "204000122",
+  "description": "Kopassus (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000122",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

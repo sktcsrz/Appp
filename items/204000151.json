@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_BrazilSoldier_bottom",
+  "Img": "/png",
+  "itemID": "204000151",
+  "description": "Guardian Angel (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000151",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

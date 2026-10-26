@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_foodieboy_bottom_001",
+  "Img": "/png",
+  "itemID": "204000095",
+  "description": "Foodie bottom",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000095",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

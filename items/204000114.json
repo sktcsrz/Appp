@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_female_bottom_cos_police_blue",
+  "Img": "/png",
+  "itemID": "204000114",
+  "description": "Enforcer Pants",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000114",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
