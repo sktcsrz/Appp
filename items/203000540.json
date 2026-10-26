@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_bosozoku",
+  "Img": "/png",
+  "itemID": "203000540",
+  "description": "Street Thug (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000540",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_Hitman_top",
+  "Img": "/png",
+  "itemID": "203000528",
+  "description": "Gunman (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000528",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
