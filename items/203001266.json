@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_goldenleo",
+  "Img": "/png",
+  "itemID": "203001266",
+  "description": "Golden Roar (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203001266",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

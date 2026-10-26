@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_steamwarrior_a",
+  "Img": "/png",
+  "itemID": "203001316",
+  "description": "Gear Wear Jacket",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203001316",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

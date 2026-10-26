@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_cos_heroic_s10",
+  "Img": "/png",
+  "itemID": "203001288",
+  "description": "CS-Ranked S10 Heroic",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203001288",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

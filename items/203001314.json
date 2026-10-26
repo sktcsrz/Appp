@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_steamwarrior",
+  "Img": "/png",
+  "itemID": "203001314",
+  "description": "Mechnician Brass (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203001314",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
