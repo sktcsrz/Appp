@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_dunelord",
+  "Img": "/png",
+  "itemID": "203050004",
+  "description": "Queen of Desert (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203050004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

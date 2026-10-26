@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_cloudyday",
+  "Img": "/png",
+  "itemID": "203050005",
+  "description": "Solar Cloud (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203050005",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

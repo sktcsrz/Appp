@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_dunelord",
+  "Img": "/png",
+  "itemID": "203050003",
+  "description": "King of Desert (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203050003",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_jumpsuit25",
+  "Img": "/png",
+  "itemID": "203049004",
+  "description": "Top Criminal (Golden)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203049004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

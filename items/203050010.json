@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_va_witch",
+  "Img": "/png",
+  "itemID": "203050010",
+  "description": "Mystic Trouble (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203050010",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
