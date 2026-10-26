@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_skeleton24",
+  "Img": "/png",
+  "itemID": "203045010",
+  "description": "Chill Bones (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203045010",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
