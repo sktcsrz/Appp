@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_hoodshirt_black",
+  "Img": "/png",
+  "itemID": "204000057",
+  "description": "Black Activewear (Sweatpants)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000057",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

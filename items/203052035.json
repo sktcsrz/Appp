@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_csrank36",
+  "Img": "/png",
+  "itemID": "203052035",
+  "description": "CS-Ranked S36 Heroic",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203052035",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

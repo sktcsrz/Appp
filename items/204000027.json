@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_jeans_diy_001",
+  "Img": "/png",
+  "itemID": "204000027",
+  "description": "Jeans (Blue Graffiti)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000027",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

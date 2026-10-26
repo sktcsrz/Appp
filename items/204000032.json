@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_suit_pants_001_4",
+  "Img": "/png",
+  "itemID": "204000032",
+  "description": "Blue Leather Pants (male)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000032",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

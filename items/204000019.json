@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_short_camo_002",
+  "Img": "/png",
+  "itemID": "204000019",
+  "description": "Shorts (Jungle)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000019",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

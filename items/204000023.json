@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_jeans_diy_005",
+  "Img": "/png",
+  "itemID": "204000023",
+  "description": "Jeans (Gaze)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000023",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

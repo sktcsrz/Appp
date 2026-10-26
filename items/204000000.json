@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_bottom_default",
+  "Img": "/png",
+  "itemID": "204000000",
+  "description": "Default",
+  "description2": "Default",
+  "Rare": "WHITE",
+  "AbIconID": "204000000",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

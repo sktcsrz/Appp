@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_cop_pants_1",
+  "Img": "/png",
+  "itemID": "204000043",
+  "description": "Andrew's Military Pants",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000043",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

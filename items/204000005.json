@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_pants_1",
+  "Img": "/png",
+  "itemID": "204000005",
+  "description": "Long Pants (Beige)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000005",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

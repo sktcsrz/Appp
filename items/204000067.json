@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_bottom_cos_soldier_yellow",
+  "Img": "/png",
+  "itemID": "204000067",
+  "description": "Soldier Pants",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000067",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_Avatar_female_sc_suit_bottom02",
+  "Img": "/png",
+  "itemID": "204000063",
+  "description": "Nikita's Bodyguard Pants",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000063",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

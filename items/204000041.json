@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_jeans_tiger",
+  "Img": "/png",
+  "itemID": "204000041",
+  "description": "Crouching Tiger",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000041",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

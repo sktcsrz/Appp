@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_jeans_3",
+  "Img": "/png",
+  "itemID": "204000011",
+  "description": "Jeans (Navy)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000011",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

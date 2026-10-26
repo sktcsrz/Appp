@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_bottom_cos_techwear_black",
+  "Img": "/png",
+  "itemID": "204000054",
+  "description": "Male Techwear (Pants)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000054",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

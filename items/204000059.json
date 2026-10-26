@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_bottom_cos_downjacket_yellow",
+  "Img": "/png",
+  "itemID": "204000059",
+  "description": "Down Pants (Female)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000059",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

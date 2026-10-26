@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_suit_pants_001_2",
+  "Img": "/png",
+  "itemID": "204000030",
+  "description": "Yellow Leather Pants (male)",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "204000030",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

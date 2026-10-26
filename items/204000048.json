@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_cop_pants_2",
+  "Img": "/png",
+  "itemID": "204000048",
+  "description": "Military Pants (Alternative)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "204000048",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
