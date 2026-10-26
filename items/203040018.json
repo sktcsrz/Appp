@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_surf",
+  "Img": "/png",
+  "itemID": "203040018",
+  "description": "Seaside Protector (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203040018",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

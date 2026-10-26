@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_slime",
+  "Img": "/png",
+  "itemID": "203041013",
+  "description": "Jelly Delight (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203041013",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

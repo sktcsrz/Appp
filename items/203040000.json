@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_speed",
+  "Img": "/png",
+  "itemID": "203040000",
+  "description": "Sonorous Graffiti (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203040000",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

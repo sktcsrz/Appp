@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_farmer",
+  "Img": "/png",
+  "itemID": "203040020",
+  "description": "Sunset Explorer (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203040020",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

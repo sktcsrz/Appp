@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_slime",
+  "Img": "/png",
+  "itemID": "203041010",
+  "description": "Luminotoxin Jelly (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203041010",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

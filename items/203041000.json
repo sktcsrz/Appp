@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_top_fisherman",
+  "Img": "/png",
+  "itemID": "203041000",
+  "description": "The Reel Deal (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203041000",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
