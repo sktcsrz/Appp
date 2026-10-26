@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_whitesweater",
+  "Img": "/png",
+  "itemID": "203001360",
+  "description": "White Turtleneck",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203001360",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

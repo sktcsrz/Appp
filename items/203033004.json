@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_chess",
+  "Img": "/png",
+  "itemID": "203033004",
+  "description": "Checkmate Knight (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203033004",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

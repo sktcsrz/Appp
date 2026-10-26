@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_tshirt_chess",
+  "Img": "/png",
+  "itemID": "203033008",
+  "description": "Checkmate T-shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203033008",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
