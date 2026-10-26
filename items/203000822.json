@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_jumpsuit_ff",
+  "Img": "/png",
+  "itemID": "203000822",
+  "description": "Plan Bermuda Street (Female)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000822",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

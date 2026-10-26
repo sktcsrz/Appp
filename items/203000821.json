@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_jumpsuit_ff",
+  "Img": "/png",
+  "itemID": "203000821",
+  "description": "Plan Bermuda Street (Male)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000821",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

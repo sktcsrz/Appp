@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_ghostfashion_A",
+  "Img": "/png",
+  "itemID": "203000901",
+  "description": "Phantom Bear",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000901",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

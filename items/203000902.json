@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_mmafighter_top",
+  "Img": "/png",
+  "itemID": "203000902",
+  "description": "MMA Viking (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000902",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

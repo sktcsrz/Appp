@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_ghostfashion",
+  "Img": "/png",
+  "itemID": "203000899",
+  "description": "Oni Soulseeker (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203000899",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_SwatGuy_top",
+  "Img": "/png",
+  "itemID": "203000844",
+  "description": "Justice Fighter (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000844",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
