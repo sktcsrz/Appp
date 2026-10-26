@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_timemachine_blue",
+  "Img": "/png",
+  "itemID": "203000931",
+  "description": "Azure Time-Skipper (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000931",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_bounty_top",
+  "Img": "/png",
+  "itemID": "203000962",
+  "description": "Cosmic Bounty Hunter (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000962",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_cobra_blue",
+  "Img": "/png",
+  "itemID": "203000981",
+  "description": "Cobra Storm (Top)",
+  "description2": "NONE",
+  "Rare": "RED",
+  "AbIconID": "203000981",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

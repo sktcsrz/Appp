@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_superstar_top",
+  "Img": "/png",
+  "itemID": "203001014",
+  "description": "Superstar (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203001014",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

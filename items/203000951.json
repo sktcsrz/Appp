@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_cos_tshirt_soulbusters",
+  "Img": "/png",
+  "itemID": "203000951",
+  "description": "Specter Squad T-Shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000951",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
