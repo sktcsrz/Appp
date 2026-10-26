@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_redcrowned",
+  "Img": "/png",
+  "itemID": "203001030",
+  "description": "Airspeed Ace (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203001030",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
