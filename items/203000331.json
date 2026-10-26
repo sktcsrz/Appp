@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_usefulfood_WhiteEagle",
+  "Img": "/png",
+  "itemID": "203000331",
+  "description": "White Eagle",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000331",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

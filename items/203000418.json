@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_Samurai_top",
+  "Img": "/png",
+  "itemID": "203000418",
+  "description": "Flaming Strike (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000418",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

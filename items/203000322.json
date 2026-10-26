@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_minion",
+  "Img": "/png",
+  "itemID": "203000322",
+  "description": "Yellow Worker Suit",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000322",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

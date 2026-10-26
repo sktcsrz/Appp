@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_dragons_N",
+  "Img": "/png",
+  "itemID": "203000401",
+  "description": "Dragon's Scream",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000401",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

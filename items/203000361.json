@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_egypt_N",
+  "Img": "/png",
+  "itemID": "203000361",
+  "description": "Bandaged Gaze",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000361",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_moneyheist",
+  "Img": "/png",
+  "itemID": "203000348",
+  "description": "Top Criminal (Red)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203000348",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

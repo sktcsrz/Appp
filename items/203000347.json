@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_jacket_MonkeyGod",
+  "Img": "/png",
+  "itemID": "203000347",
+  "description": "Wukong's Jacket",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000347",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

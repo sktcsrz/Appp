@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_tiger",
+  "Img": "/png",
+  "itemID": "203000325",
+  "description": "Tiger Suit",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000325",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_cheongsam",
+  "Img": "/png",
+  "itemID": "203000370",
+  "description": "Red Hot",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000370",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

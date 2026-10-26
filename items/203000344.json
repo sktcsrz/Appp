@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_santa",
+  "Img": "/png",
+  "itemID": "203000344",
+  "description": "Grumpy Old Man",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000344",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

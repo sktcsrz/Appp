@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_render",
+  "Img": "/png",
+  "itemID": "203000324",
+  "description": "Rainbow Dino",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000324",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

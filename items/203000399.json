@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_dragons_A",
+  "Img": "/png",
+  "itemID": "203000399",
+  "description": "Dragon's Fang",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000399",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

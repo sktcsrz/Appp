@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_godzilla",
+  "Img": "/png",
+  "itemID": "203000321",
+  "description": "Blue Dino",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000321",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

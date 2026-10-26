@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_MonkeyGod_top",
+  "Img": "/png",
+  "itemID": "203000353",
+  "description": "Monkey King (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000353",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

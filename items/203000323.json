@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_pinkman",
+  "Img": "/png",
+  "itemID": "203000323",
+  "description": "Pink Dino",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000323",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

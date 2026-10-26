@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_sorceresshood",
+  "Img": "/png",
+  "itemID": "203000394",
+  "description": "Full Moon Wizard",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000394",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

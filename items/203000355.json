@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_biobody_N",
+  "Img": "/png",
+  "itemID": "203000355",
+  "description": "DNA Shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000355",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

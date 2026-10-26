@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_anubis",
+  "Img": "/png",
+  "itemID": "203000396",
+  "description": "Ancient Wolf",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000396",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
