@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_watcher_hoodie",
+  "Img": "/png",
+  "itemID": "203042031",
+  "description": "Interstellar Hoodie",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203042031",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

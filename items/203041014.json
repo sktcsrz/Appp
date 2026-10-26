@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_fisherman_yellow",
+  "Img": "/png",
+  "itemID": "203041014",
+  "description": "Reeling Angler (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE_PLUS",
+  "AbIconID": "203041014",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_winterfest23_jacket",
+  "Img": "/png",
+  "itemID": "203042029",
+  "description": "Icy Jacket",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203042029",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
