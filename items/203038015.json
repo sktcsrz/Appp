@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_skisuit",
+  "Img": "/png",
+  "itemID": "203038015",
+  "description": "Blizzard Brawler (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203038015",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
