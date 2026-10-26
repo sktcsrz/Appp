@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_dunelord_jacket",
+  "Img": "/png",
+  "itemID": "203050032",
+  "description": "Desert Reign Jacket",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203050032",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_treasure26",
+  "Img": "/png",
+  "itemID": "203052008",
+  "description": "Uncharted Voyager (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203052008",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": "OB52"
+}

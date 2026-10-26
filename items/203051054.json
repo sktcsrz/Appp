@@ -1,0 +1,14 @@
+{
+  "icon": "UI_Icon_BlackWhite_01",
+  "Img": "/png",
+  "itemID": "203051054",
+  "description": "Dreamsmith (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203051054",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

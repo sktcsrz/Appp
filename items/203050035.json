@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_sl_three",
+  "Img": "/png",
+  "itemID": "203050035",
+  "description": "Tang San Top",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203050035",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
