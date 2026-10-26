@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_firefly",
+  "Img": "/png",
+  "itemID": "203048003",
+  "description": "Firefly Chaser (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203048003",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
