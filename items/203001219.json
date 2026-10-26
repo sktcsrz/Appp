@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_soulhunter",
+  "Img": "/png",
+  "itemID": "203001219",
+  "description": "Phantom Predator (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203001219",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

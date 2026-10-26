@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_muertoguy_top",
+  "Img": "/png",
+  "itemID": "203001228",
+  "description": "Artsy Engineer (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203001228",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

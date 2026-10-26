@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_top_cos_tshirt_darkdragon",
+  "Img": "/png",
+  "itemID": "203001192",
+  "description": "Fire Claw T-shirt",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203001192",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
