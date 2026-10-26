@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_royalguard_a",
+  "Img": "/png",
+  "itemID": "203000737",
+  "description": "Royal Watchman",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000737",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

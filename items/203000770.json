@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_cos_rabbitkiller",
+  "Img": "/png",
+  "itemID": "203000770",
+  "description": "Bunny Egghunter",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000770",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

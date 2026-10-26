@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_jumpsuit_basic",
+  "Img": "/png",
+  "itemID": "203000820",
+  "description": "Plan Bermuda",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000820",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

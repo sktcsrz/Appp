@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_sc_Detective_top",
+  "Img": "/png",
+  "itemID": "203000808",
+  "description": "Private Eye (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000808",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
