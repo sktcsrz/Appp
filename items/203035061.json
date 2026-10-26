@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_top_champion",
+  "Img": "/png",
+  "itemID": "203035061",
+  "description": "Champion Tee",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203035061",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

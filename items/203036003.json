@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_sc_top_yakuza",
+  "Img": "/png",
+  "itemID": "203036003",
+  "description": "Tattoo Streetlad (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203036003",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

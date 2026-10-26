@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_bartender",
+  "Img": "/png",
+  "itemID": "203036048",
+  "description": "Bartender (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203036048",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

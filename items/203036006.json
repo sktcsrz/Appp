@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_top_icewizard",
+  "Img": "/png",
+  "itemID": "203036006",
+  "description": "Wizard of Blizzards (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203036006",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
