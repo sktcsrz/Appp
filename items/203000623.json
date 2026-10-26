@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_scientist",
+  "Img": "/png",
+  "itemID": "203000623",
+  "description": "Lab Giant (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000623",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_signaltroops",
+  "Img": "/png",
+  "itemID": "203000633",
+  "description": "Storm Whisperer (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000633",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

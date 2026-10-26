@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_santasoldier",
+  "Img": "/png",
+  "itemID": "203000659",
+  "description": "Santa Militia (Top)",
+  "description2": "NONE",
+  "Rare": "PURPLE_PLUS",
+  "AbIconID": "203000659",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

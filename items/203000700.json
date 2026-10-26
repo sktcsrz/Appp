@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_cos_jeandino",
+  "Img": "/png",
+  "itemID": "203000700",
+  "description": "Denim Dino",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000700",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
