@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_twzhubot_joeman",
+  "Img": "/png",
+  "itemID": "203000498",
+  "description": "Joeman",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000498",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

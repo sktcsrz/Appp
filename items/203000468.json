@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_top_cos_wights",
+  "Img": "/png",
+  "itemID": "203000468",
+  "description": "Crystal Giant (Top)",
+  "description2": "NONE",
+  "Rare": "ORANGE",
+  "AbIconID": "203000468",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

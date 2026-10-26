@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_twzhubot_huang",
+  "Img": "/png",
+  "itemID": "203000493",
+  "description": "Huang Brothers",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000493",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_male_cos_lego",
+  "Img": "/png",
+  "itemID": "203000490",
+  "description": "Mad Brickman",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000490",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

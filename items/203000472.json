@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_female_jacket_Agent",
+  "Img": "/png",
+  "itemID": "203000472",
+  "description": "Agent's Windbreaker",
+  "description2": "NONE",
+  "Rare": "PURPLE",
+  "AbIconID": "203000472",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}

@@ -1,0 +1,14 @@
+{
+  "icon": "Icon_avatar_tshirt_twzhubot_fangu",
+  "Img": "/png",
+  "itemID": "203000492",
+  "description": "Fangu Boy",
+  "description2": "NONE",
+  "Rare": "BLUE",
+  "AbIconID": "203000492",
+  "isUnique": "true",
+  "IconInAB": "ICON_IN_CDN",
+  "itemType": "CLOTHES",
+  "collectionType": "NONE",
+  "tag": ""
+}
