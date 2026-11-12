@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/public.html"
+      "destination": "https://ff-item.netlify.app/"
     }
   ]
 }
